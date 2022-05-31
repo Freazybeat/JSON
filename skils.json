@@ -1,3 +1,8 @@
 {
-	"skills on courses" : "terminal, api, json .."
+	"skills on courses" : 
+	[ "terminal, 
+	 "api", 
+	 "json .."
+	 ]
 }
+
