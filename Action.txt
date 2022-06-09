@@ -14,7 +14,7 @@ git push
 vim new.json
 
  11. Отправить изменения на внешний репозиторий.
-git status
+git -am "change"
 git push
  12. Создать файл preferences.json
 touch preferences.json
